@@ -19,5 +19,8 @@
     "popper.js": "^1.16.1",
     "vue": "^3.4.19",
     "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.1.3"
   }
 }
